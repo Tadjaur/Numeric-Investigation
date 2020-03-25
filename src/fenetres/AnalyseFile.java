@@ -17,10 +17,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.awt.Toolkit;
 
-/**
- *
- * @author Estébane
- */
 public class AnalyseFile extends javax.swing.JFrame {
 
     /**
